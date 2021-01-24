@@ -5,7 +5,8 @@ This is a folder containing all my configurations in my 2year old Ubuntu 20.04 s
 ## How to install/run
 
 ``` bash
-It is just some random files/folder and don't have a particular installation process, would love to find some solution to migrate my current config across distros.. but until then,   :)
+It is just some random files/folder and don't have a particular installation process, 
+would love to find some solution to migrate my current config across distros.. but until then,   :)
 ```
 
 ## Contributing
