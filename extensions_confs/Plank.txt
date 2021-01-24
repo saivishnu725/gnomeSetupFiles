@@ -1,0 +1,32 @@
+Appearance
+
+Theme:Default
+Position:Bottom
+OnPrimaryDisplay :true
+Alignment:Center
+IconSize:76
+IconZoom:200
+
+Behaviour
+
+HideDock:true::Intellihide
+HideDelay:0
+UnhideDelay:0
+ItemManagement:true
+RestrictToWorkspace:false
+LockIcons:false
+
+DockIconList
+
+Steam
+VLC
+OBS-Studio
+Files
+BraveBrowser
+Android Studio
+Cpu-monitor(plank default)
+VScode
+Terminal
+Text Editor
+Spotify
+Desktop(plank default)
