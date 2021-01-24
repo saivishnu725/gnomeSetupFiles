@@ -14,6 +14,7 @@ would love to find some solution to migrate my current config across distros.. b
 Contributing to anything not appreciated for the moment because this is my configuration and don't want anyone's help.
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/).
 
 ## Known needed features
