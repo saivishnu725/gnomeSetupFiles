@@ -1,0 +1,15 @@
+AppKeys
+Clipboard indicator
+Dash to dock
+Desktop icons
+Frippery applications menu
+Frippery move clock
+Horizontal workspaces
+Netspeed
+Panel transparency(error)
+Places status indicator
+Refresh wifi connections
+Remove dropdown arrows
+Steal my focus
+Transparent top bar(adjustable transparency)
+User themes
